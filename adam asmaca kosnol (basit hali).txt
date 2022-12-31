@@ -1,0 +1,1 @@
+﻿'[11248] adam asmaca.exe' programı 3221225786 (0xc000013a) koduyla çıktı.
